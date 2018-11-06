@@ -1,3 +1,7 @@
+/*
+coded by He Zhu 
+2018 Nov 06
+*/
 #ifndef LINKEDLIST_H_
 #define LINKEDLIST_H_
 #include<iostream>
